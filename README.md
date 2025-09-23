@@ -1,4 +1,9 @@
-# AIFFEL 15기 리서치   AIFFEL 리서치 과정에 대해서 과제들을 저장 할 repository 입니다.   # File Tree   
+# AIFFEL 리서치 과정
+AIFFEL 리서치 과정 15기 과제들을 저장할 Repository 입니다
+
+## Repository File Tree
+
+```
 .
 ├── AIFFEL_quest_cr
 │   ├── Exploration
@@ -55,3 +60,4 @@
 └── README.md
 
 29 directories, 25 files
+```
