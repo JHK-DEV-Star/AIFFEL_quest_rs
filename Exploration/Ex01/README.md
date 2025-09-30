@@ -21,7 +21,7 @@
       
     - 아래 이미지 처럼 필요한 시각화를 잘 구현하였습니다.
 
-    <img src="/Exploration/Ex01/img/PRT04.png" width="450px" height="300px"></img>
+    <img src="/Exploration/Ex01/img/PRT04.png" width="700px" height="500px"></img>
     
 - [-]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
