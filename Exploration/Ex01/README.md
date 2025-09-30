@@ -10,13 +10,13 @@
      
     - 프로젝트 1의 Loss는 3000아래로 잘 내려왔고 프로젝트 2의 RMSE도 150이하로 잘 내려온게 확인됩니다.
  
-      <img src="/Exploration/Ex01/img/PRT01.png" width="450px" height="300px"></img>   
+      <img src="/Exploration/Ex01/img/PRT01.png" width="700px" height="500px"></img>   
  
       
-      <img src="/Exploration/Ex01/img/PRT02.png" width="450px" height="300px"></img>   
+      <img src="/Exploration/Ex01/img/PRT02.png" width="700px" height="500px"></img>   
  
       
-      <img src="/Exploration/Ex01/img/PRT03.png" width="450px" height="300px"></img>   
+      <img src="/Exploration/Ex01/img/PRT03.png" width="700px" height="500px"></img>   
  
       
     - 아래 이미지 처럼 필요한 시각화를 잘 구현하였습니다.
@@ -58,7 +58,7 @@
      
     - import되야 할 패키지를 한곳에 잘 모아두었고 코드마다 간격을 두어 읽기 수월하게 만들었습니다.
       
-      <img src="/Exploration/Ex01/img/PRT05.png" width="450px" height="300px"></img>
+      <img src="/Exploration/Ex01/img/PRT05.png" width="700px" height="500px"></img>
 
 # 회고(참고 링크 및 코드 개선) 
 ```
