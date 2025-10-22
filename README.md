@@ -3,7 +3,6 @@ AIFFEL 리서치 과정 15기 과제들을 저장할 Repository 입니다
 
 ## Repository File Tree
 
-
 ```
 .
 ├── Exploration
@@ -64,9 +63,35 @@ AIFFEL 리서치 과정 15기 과제들을 저장할 Repository 입니다
 │   │   │   ├── Won_Bin.jpg
 │   │   │   ├── Woody.webp
 │   │   │   └── joy.webp
+│   │   ├── review_img
+│   │   │   ├── review_img1.png
+│   │   │   ├── review_img2.png
+│   │   │   ├── review_img3.png
+│   │   │   ├── review_img4.png
+│   │   │   ├── review_img5.png
+│   │   │   ├── review_img6.png
+│   │   │   └── review_img7.png
 │   │   └── rs15.ipynb
 │   ├── Ex04
-│   │   └── README.md
+│   │   ├── README.md
+│   │   ├── img
+│   │   │   ├── boat.jpg
+│   │   │   ├── cat.png
+│   │   │   ├── cat2.png
+│   │   │   ├── cat3.jpg
+│   │   │   ├── cat4.webp
+│   │   │   ├── dog.webp
+│   │   │   ├── dog2.png
+│   │   │   ├── dog3.jpg
+│   │   │   ├── dog4.jpg
+│   │   │   ├── person1.png
+│   │   │   ├── person2.png
+│   │   │   ├── person3.png
+│   │   │   ├── person4.png
+│   │   │   ├── person5.png
+│   │   │   ├── person6.png
+│   │   │   └── sand.png
+│   │   └── rs15_4.ipynb
 │   ├── Ex05
 │   │   └── README.md
 │   ├── Ex06
@@ -111,5 +136,5 @@ AIFFEL 리서치 과정 15기 과제들을 저장할 Repository 입니다
 │       └── README.md
 └── README.md
 
-31 directories, 74 files
+33 directories, 98 files
 ```
